@@ -5,16 +5,18 @@ We'll be playing around with some Rails models.
 In an attempt to stay.....active  ☜(ﾟヮﾟ☜)
 some people bought some bikes from local bike shops.
 
-Every shop sells multiple bikes, every buyer can buy multiple bikes.
-Every bike is sold by a shop and bought by a buyer.
+Each shop sells multiple bikes, each buyer can buy multiple bikes.
+Each bike is sold by a shop and bought by a buyer.
 
 It's rocket surgery, I know.
 
-ActiveRecord only - no routes, Capybara, controllers, html, CSS, javascript, etc - models only.
+Models only - no routes, Capybara, controllers, HTML, CSS, Javascript, etc.
 
 Run your rake tasks (create, migrate, seed).
 
-Get the tests to pass and you're done. ᕕ( ᐛ )ᕗ
+Get the tests to pass and you're done.  ᕕ( ᐛ )ᕗ
+
+I don't know how long this will take. If it sucks, I am sorry.
 
 Hint: associations.
 
