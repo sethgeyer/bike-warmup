@@ -1,28 +1,23 @@
-== README
+Back to ActiveRecord
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+We'll be playing around with some Rails models.
 
-Things you may want to cover:
+In an attempt to stay.....active  ☜(ﾟヮﾟ☜)
+some people bought some bikes from local bike shops.
 
-* Ruby version
+Every shop sells multiple bikes, every buyer can buy multiple bikes.
+Every bike is sold by a shop and bought by a buyer.
 
-* System dependencies
+It's rocket surgery, I know.
 
-* Configuration
+ActiveRecord only - no routes, Capybara, controllers, html, CSS, javascript, etc - models only.
 
-* Database creation
+Run your rake tasks (create, migrate, seed).
 
-* Database initialization
+Get the tests to pass and you're done. ᕕ( ᐛ )ᕗ
 
-* How to run the test suite
+Hint: associations.
 
-* Services (job queues, cache servers, search engines, etc.)
+¯\_(ツ)_/¯
 
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+Hooray!
