@@ -1,0 +1,13 @@
+default: &default
+  adapter: postgresql
+  encoding: unicode
+  username: gschool
+  pool: 5
+
+development:
+  <<: *default
+  database: warmup_activerecord_developmen
+
+test:
+  <<: *default
+  database: warmup_activerecord_tes
