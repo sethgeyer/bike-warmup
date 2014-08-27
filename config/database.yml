@@ -10,4 +10,4 @@ development:
 
 test:
   <<: *default
-  database: warmup_activerecord_tes
+  database: warmup_activerecord_test
