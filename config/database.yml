@@ -6,7 +6,7 @@ default: &default
 
 development:
   <<: *default
-  database: warmup_activerecord_developmen
+  database: warmup_activerecord_development
 
 test:
   <<: *default
