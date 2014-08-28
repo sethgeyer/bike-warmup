@@ -36,7 +36,6 @@ describe "Buyer" do
 
   it "returns buyer's favorite brand" do
     buyer = Buyer.find_by(first_name: "John")
-
     expect(buyer.favorite_brand).to eq("Felt")
   end
 
